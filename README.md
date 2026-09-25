@@ -1,3 +1,7 @@
+## Screenshots
+<img width="533" height="371" alt="image" src="https://github.com/user-attachments/assets/89f5307c-2ca6-4821-b7a5-3c4278c24adf" />
+
+
 ## Password Encrypter
 A desktop password encryption and decryption tool built with C# and WPF.
 
